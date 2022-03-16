@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mane__Page/static/css/main.4edffd14.css",
+    "main.js": "/Mane__Page/static/js/main.2292edc8.js",
+    "static/js/787.fe233384.chunk.js": "/Mane__Page/static/js/787.fe233384.chunk.js",
+    "index.html": "/Mane__Page/index.html",
+    "main.4edffd14.css.map": "/Mane__Page/static/css/main.4edffd14.css.map",
+    "main.2292edc8.js.map": "/Mane__Page/static/js/main.2292edc8.js.map",
+    "787.fe233384.chunk.js.map": "/Mane__Page/static/js/787.fe233384.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4edffd14.css",
+    "static/js/main.2292edc8.js"
+  ]
+}
